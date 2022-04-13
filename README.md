@@ -12,7 +12,7 @@
 
 ## Instructions for Students
 
-Clone a copy of this repository using Git. -> done
+Clone a copy of this repository using Git. -> done, but i also can change via gitHub
 
 To accomplish this you might proceed as follows:
 
