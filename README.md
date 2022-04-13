@@ -22,7 +22,7 @@ To accomplish this you might proceed as follows:
 ```{bash}
 $ cd your/path/to/smwa-material
 ```
-3. Clone a copy of this repository:
+3. Clone a copy of this repository: yes this works
 
 ```{bash, eval = FALSE}
 git clone https://github.com/tisem-digital-marketing/smwa-lab-01.git
